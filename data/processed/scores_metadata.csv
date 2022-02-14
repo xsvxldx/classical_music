@@ -1,0 +1,319 @@
+id,composer,composition,movement,ensemble,seconds,key,tonic,tonic_encoded
+1727,Schubert,Piano Quintet in A major,2. Andante,Piano Quintet,447,A major,A,9
+1728,Schubert,Piano Quintet in A major,3. Scherzo: Presto,Piano Quintet,251,A major,A,9
+1729,Schubert,Piano Quintet in A major,4. Andantino - Allegretto,Piano Quintet,444,A major,A,9
+1730,Schubert,Piano Quintet in A major,5. Allegro giusto,Piano Quintet,368,A major,A,9
+1733,Schubert,Piano Sonata in A major,2. Andantino,Solo Piano,546,A major,A,9
+1734,Schubert,Piano Sonata in A major,3. Scherzo. Allegro vivace,Solo Piano,325,A major,A,9
+1735,Schubert,Piano Sonata in A major,4. Rondo. Allegretto,Solo Piano,714,A major,A,9
+1739,Schubert,Piano Trio in B-flat major,4. Rondo. Allegro vivace,Piano Trio,490,B-flat major,B-flat,10
+1742,Schubert,String Quintet in C major,2. Adagio,Viola Quintet,924,C major,C,0
+1749,Schubert,Piano Sonata in A minor,1. Moderato,Solo Piano,696,A minor,A,9
+1750,Schubert,Piano Sonata in A minor,2. Andante poco mosso,Solo Piano,784,A minor,A,9
+1751,Schubert,Piano Sonata in A minor,3. Scherzo. Allegro vivace - Trio. Un poco piu lento,Solo Piano,475,A minor,A,9
+1752,Schubert,Piano Sonata in A minor,4. Rondo. Allegro vivace,Solo Piano,362,A minor,A,9
+1755,Schubert,Piano Sonata in A minor,2. Andante,Solo Piano,229,A minor,A,9
+1756,Schubert,Piano Sonata in A minor,3. Allegro vivace,Solo Piano,371,A minor,A,9
+1757,Schubert,Piano Sonata in C minor,1. Allegro,Solo Piano,710,C minor,C,0
+1758,Schubert,Piano Sonata in C minor,2. Adagio,Solo Piano,468,C minor,C,0
+1759,Schubert,Piano Sonata in C minor,3. Menuetto and Trio,Solo Piano,194,C minor,C,0
+1760,Schubert,Piano Sonata in C minor,4. Allegro,Solo Piano,655,C minor,C,0
+1763,Schubert,4 Impromptus,1. Impromptu in F minor,Solo Piano,600,F minor,F,5
+1764,Schubert,4 Impromptus,2. Impromptu in A-flat major,Solo Piano,438,A-flat major,A-flat,8
+1765,Schubert,4 Impromptus,3. Impromptu in B-flat major,Solo Piano,676,B-flat major,B-flat,10
+1766,Schubert,4 Impromptus,4. Impromptu in F minor,Solo Piano,427,F minor,F,5
+1768,Schubert,Piano Sonata in A major,2. Andante,Solo Piano,290,A major,A,9
+1771,Schubert,Piano Sonata in D-flat major,1. Allegro moderato,Solo Piano,647,D-flat major,D-flat,1
+1772,Schubert,Piano Sonata in D-flat major,2. Andante molto,Solo Piano,417,D-flat major,D-flat,1
+1773,Schubert,Piano Sonata in D-flat major,3. Menuetto. Allegretto,Solo Piano,307,D-flat major,D-flat,1
+1775,Schubert,Piano Sonata in D major,1. Allegro vivace,Solo Piano,578,D major,D,2
+1776,Schubert,Piano Sonata in D major,2. Con moto,Solo Piano,726,D major,D,2
+1777,Schubert,Piano Sonata in D major,3. Scherzo. Allegro vivace,Solo Piano,629,D major,D,2
+1788,Mozart,String Quartet No 19 in C major,1. Adagio - Allegro,String Quartet,513,C major,C,0
+1789,Mozart,String Quartet No 19 in C major,2. Andante cantabile,String Quartet,461,C major,C,0
+1790,Mozart,String Quartet No 19 in C major,3. Menuetto. Allegro,String Quartet,323,C major,C,0
+1791,Mozart,String Quartet No 19 in C major,4. Allegro molto,String Quartet,351,C major,C,0
+1792,Mozart,String Quartet No 19 in C major,1. Adagio - Allegro,String Quartet,472,C major,C,0
+1793,Mozart,String Quartet No 19 in C major,2. Andante cantabile,String Quartet,504,C major,C,0
+1805,Mozart,String Quartet No 14 in G major,1. Allegro vivace assai,String Quartet,356,G major,G,7
+1807,Mozart,String Quartet No 14 in G major,3. Andante cantabile,String Quartet,444,G major,G,7
+1811,Mozart,Clarinet Quintet in A major,2. Larghetto,Clarinet Quintet,489,A major,A,9
+1812,Mozart,Clarinet Quintet in A major,3. Menuetto,Clarinet Quintet,466,A major,A,9
+1813,Mozart,Clarinet Quintet in A major,4. Allegretto con variazioni,Clarinet Quintet,591,A major,A,9
+1817,Mozart,Serenade in E-flat major,2. Menuetto,Pairs Clarinet-Horn-Bassoon,250,E-flat major,E-flat,3
+1818,Mozart,Serenade in E-flat major,3. Adagio,Pairs Clarinet-Horn-Bassoon,407,E-flat major,E-flat,3
+1819,Mozart,Serenade in E-flat major,4. Menuetto,Pairs Clarinet-Horn-Bassoon,177,E-flat major,E-flat,3
+1822,Mozart,String Quartet No 15 in D minor,1. Allegro moderato,String Quartet,460,D minor,D,2
+1824,Mozart,String Quartet No 15 in D minor,3. Menuetto and Trio. Allegretto,String Quartet,252,D minor,D,2
+1828,Mozart,Piano Trio No 4 in E major,2. Andante grazioso,Piano Trio,265,E major,E,4
+1829,Mozart,Piano Trio No 4 in E major,3. Allegro,Piano Trio,421,E major,E,4
+1835,Mozart,String Quartet No 23 in F major,3. Menuetto. Allegretto,String Quartet,236,F major,F,5
+1859,Mozart,String Quartet No 18 in A major,2. Menuetto and Trio,String Quartet,392,A major,A,9
+1872,Mozart,Piano Trio No 3 in B-flat major,2. Larghetto,Piano Trio,509,B-flat major,B-flat,10
+1873,Mozart,Piano Trio No 3 in B-flat major,3. Allegretto,Piano Trio,366,B-flat major,B-flat,10
+1876,Mozart,Piano Trio No2 in G major,2. Andante,Piano Trio,356,G major,G,7
+1893,Mozart,Piano Trio No 6 in G major,3. Allegretto,Piano Trio,325,G major,G,7
+1916,Dvorak,String Quartet No 10 in E-flat major,1. Allegro ma non troppo,String Quartet,675,E-flat major,E-flat,3
+1918,Dvorak,String Quartet No 10 in E-flat major,3. Romanza,String Quartet,367,E-flat major,E-flat,3
+1919,Dvorak,String Quartet No 10 in E-flat major,4. Finale,String Quartet,434,E-flat major,E-flat,3
+1922,Dvorak,String Quartet No 10 in E-flat major,3. Romanza,String Quartet,402,E-flat major,E-flat,3
+1923,Dvorak,String Quartet No 10 in E-flat major,4. Finale,String Quartet,393,E-flat major,E-flat,3
+1931,Dvorak,String Quartet No 12 in F major,2. Lento,String Quartet,471,F major,F,5
+1932,Dvorak,String Quartet No 12 in F major,3. Molto vivace,String Quartet,250,F major,F,5
+1933,Dvorak,String Quartet No 12 in F major,4. Finale: vivace ma non troppo,String Quartet,351,F major,F,5
+2075,Cambini,Wind Quintet No 1 in B-flat Major,1. Allegro maestoso,Wind Quintet,329,B-flat major,B-flat,10
+2076,Cambini,Wind Quintet No 1 in B-flat Major,2. Larghetto cantabile,Wind Quintet,247,B-flat major,B-flat,10
+2077,Cambini,Wind Quintet No 1 in B-flat Major,3. Rondo Allegretto grazioso,Wind Quintet,250,B-flat major,B-flat,10
+2078,Cambini,Wind Quintet No 2 in D Minor,1. Allegro espressivo,Wind Quintet,355,D minor,D,2
+2079,Cambini,Wind Quintet No 2 in D Minor,2. Larghetto sostenuto ma con moto,Wind Quintet,278,D minor,D,2
+2080,Cambini,Wind Quintet No 2 in D Minor,3. Presto ma non tanto,Wind Quintet,233,D minor,D,2
+2081,Cambini,Wind Quintet No 3 in F Major,1. Allegro maestoso,Wind Quintet,299,F major,F,5
+2082,Cambini,Wind Quintet No 3 in F Major,2. Larghetto sostenuto,Wind Quintet,341,F major,F,5
+2083,Cambini,Wind Quintet No 3 in F Major,3. Rondo Allegro con brio,Wind Quintet,245,F major,F,5
+2104,Haydn,Quartet No 53 in D major,1. Allegro moderato,String Quartet,371,D major,D,2
+2105,Haydn,Quartet No 53 in D major,2. Adagio - Cantabile,String Quartet,291,D major,D,2
+2106,Haydn,Quartet No 53 in D major,3. Menuetto: Allegretto,String Quartet,226,D major,D,2
+2112,Brahms,Cello Sonata No 1 in E minor,1. Allegro non troppo,Accompanied Cello,897,E minor,E,4
+2113,Brahms,Cello Sonata No 1 in E minor,2. Allegretto quasi Menuetto,Accompanied Cello,352,E minor,E,4
+2114,Brahms,Cello Sonata No 1 in E minor,3. Allegro,Accompanied Cello,403,E minor,E,4
+2116,Brahms,Clarinet Sonata No 1 in F minor,1. Allegro appassionato,Accompanied Clarinet,410,F minor,F,5
+2117,Brahms,Clarinet Sonata No 1 in F minor,2. Andante un poco Adagio,Accompanied Clarinet,266,F minor,F,5
+2118,Brahms,Clarinet Sonata No 1 in F minor,3. Allegretto grazioso,Accompanied Clarinet,232,F minor,F,5
+2119,Brahms,Clarinet Sonata No 1 in F minor,4. Vivace,Accompanied Clarinet,294,F minor,F,5
+2127,Brahms,Serenade No 1 in D Major,2. Scherzo. Allegro non troppo,Wind and Strings Octet,518,D major,D,2
+2131,Brahms,Serenade No 1 in D Major,6. Rondo. Allegro,Wind and Strings Octet,274,D major,D,2
+2138,Brahms,String Quartet in C minor,2. Romanze: Poco adagio,String Quartet,429,C minor,C,0
+2140,Brahms,String Quartet in C minor,4. Allegro,String Quartet,381,C minor,C,0
+2147,Brahms,String Sextet No 2 in G major,4. Poco allegro,String Sextet,501,G major,G,7
+2148,Brahms,Piano Quartet No 1 in G minor,1. Allegro,Piano Quartet,822,G minor,G,7
+2149,Brahms,Piano Quartet No 1 in G minor,2. Intermezzo: Allegro ma non troppo,Piano Quartet,476,G minor,G,7
+2150,Brahms,Piano Quartet No 1 in G minor,3. Andante con moto,Piano Quartet,599,G minor,G,7
+2151,Brahms,Piano Quartet No 1 in G minor,4. Rondo alla Zingarese: Presto,Piano Quartet,533,G minor,G,7
+2154,Brahms,String Sextet No 1 in B-flat major,1. Allegro ma non troppo,String Sextet,894,B-flat major,B-flat,10
+2155,Brahms,String Sextet No 1 in B-flat major,"2. Andante, ma moderato",String Sextet,606,B-flat major,B-flat,10
+2156,Brahms,String Sextet No 1 in B-flat major,3. Scherzo. Allegro molto,String Sextet,192,B-flat major,B-flat,10
+2157,Brahms,String Sextet No 1 in B-flat major,4. Rondo: Poco Allegretto e grazioso,String Sextet,661,B-flat major,B-flat,10
+2158,Brahms,Horn Trio in E-flat major,1. Andante,Horn Piano Trio,482,E-flat major,E-flat,3
+2159,Brahms,Horn Trio in E-flat major,2. Scherzo (Allegro),Horn Piano Trio,466,E-flat major,E-flat,3
+2160,Brahms,Horn Trio in E-flat major,3. Adagio mesto,Horn Piano Trio,446,E-flat major,E-flat,3
+2161,Brahms,Horn Trio in E-flat major,4. Allegro con brio,Horn Piano Trio,397,E-flat major,E-flat,3
+2166,Faure,Piano Quartet No 2 in G minor,1. Allegro molto moderato,Piano Quartet,639,G minor,G,7
+2167,Faure,Piano Quartet No 2 in G minor,2. Allegro molto,Piano Quartet,193,G minor,G,7
+2168,Faure,Piano Quartet No 2 in G minor,3. Adagio non troppo,Piano Quartet,612,G minor,G,7
+2169,Faure,Piano Quartet No 2 in G minor,4. Allegro molto,Piano Quartet,519,G minor,G,7
+2177,Ravel,String Quartet in F,1. Allegro moderato - tres doux,String Quartet,490,F,F,5
+2178,Ravel,String Quartet in F,2. Assez vif - tres rythme,String Quartet,355,F,F,5
+2179,Ravel,String Quartet in F,3. Tres lent,String Quartet,505,F,F,5
+2180,Ravel,String Quartet in F,4. Vif et agite,String Quartet,293,F,F,5
+2186,Bach,Violin Partita No 3 in E major,1. Preludio,Solo Violin,214,E major,E,4
+2191,Bach,Violin Partita No 3 in E major,6. Bourree,Solo Violin,102,E major,E,4
+2194,Bach,"WTK I, No. 13: Prelude and Fugue in F-sharp major",1. Prelude,Solo Piano,100,F-sharp major,F-sharp,6
+2195,Bach,"WTK I, No. 3: Prelude and Fugue in C-sharp major",2. Fugue,Solo Piano,155,C-sharp major,C-sharp,1
+2196,Bach,"WTK I, No. 3: Prelude and Fugue in C-sharp major",1. Prelude,Solo Piano,75,C-sharp major,C-sharp,1
+2198,Bach,"WTK I, No. 22: Prelude and Fugue in B-flat minor",2. Fugue,Solo Piano,197,B-flat minor,B-flat,10
+2200,Bach,"WTK I, No. 16: Prelude and Fugue in G minor",2. Fugue,Solo Piano,113,G minor,G,7
+2201,Bach,"WTK I, No. 16: Prelude and Fugue in G minor",1. Prelude,Solo Piano,134,G minor,G,7
+2202,Bach,Partita in A minor,1. Allemande,Solo Flute,181,A minor,A,9
+2203,Bach,Partita in A minor,2. Corrente,Solo Flute,156,A minor,A,9
+2204,Bach,Partita in A minor,3. Sarabande,Solo Flute,132,A minor,A,9
+2207,Bach,"WTK I, No. 10: Prelude and Fugue in E minor",2. Fugue,Solo Piano,89,E minor,E,4
+2208,Bach,"WTK I, No. 10: Prelude and Fugue in E minor",1. Prelude,Solo Piano,120,E minor,E,4
+2209,Bach,"WTK I, No. 4: Prelude and Fugue in C-sharp minor",2. Fugue,Solo Piano,160,C-sharp minor,C-sharp,1
+2210,Bach,"WTK I, No. 4: Prelude and Fugue in C-sharp minor",1. Prelude,Solo Piano,178,C-sharp minor,C-sharp,1
+2211,Bach,"WTK I, No. 12: Prelude and Fugue in F minor",2. Fugue,Solo Piano,237,F minor,F,5
+2212,Bach,"WTK I, No. 12: Prelude and Fugue in F minor",1. Prelude,Solo Piano,173,F minor,F,5
+2213,Bach,"WTK I, No. 2: Prelude and Fugue in C minor",2. Fugue,Solo Piano,115,C minor,C,0
+2214,Bach,"WTK I, No. 2: Prelude and Fugue in C minor",1. Prelude,Solo Piano,107,C minor,C,0
+2215,Bach,"WTK I, No. 1: Prelude and Fugue in C major",2. Fugue,Solo Piano,116,C major,C,0
+2224,Bach,"WTK I, No. 7: Prelude and Fugue in E-flat major",2. Fugue,Solo Piano,108,E-flat major,E-flat,3
+2225,Bach,"WTK I, No. 7: Prelude and Fugue in E-flat major",1. Prelude,Solo Piano,213,E-flat major,E-flat,3
+2227,Bach,"WTK I, No. 6: Prelude and Fugue in D minor",2. Fugue,Solo Piano,129,D minor,D,2
+2228,Bach,"WTK I, No. 6: Prelude and Fugue in D minor",1. Prelude,Solo Piano,98,D minor,D,2
+2229,Bach,"WTK I, No. 20: Prelude and Fugue in A minor",2. Fugue,Solo Piano,244,A minor,A,9
+2230,Bach,"WTK I, No. 20: Prelude and Fugue in A minor",1. Prelude,Solo Piano,84,A minor,A,9
+2231,Bach,"WTK I, No. 21: Prelude and Fugue in B-flat major",2. Fugue,Solo Piano,115,B-flat major,B-flat,10
+2232,Bach,"WTK I, No. 21: Prelude and Fugue in B-flat major",1. Prelude,Solo Piano,78,B-flat major,B-flat,10
+2234,Bach,"WTK I, No. 11: Prelude and Fugue in F major",1. Prelude,Solo Piano,64,F major,F,5
+2237,Bach,"WTK I, No. 23: Prelude and Fugue in B major",2. Fugue,Solo Piano,109,B major,B,11
+2238,Bach,"WTK I, No. 23: Prelude and Fugue in B major",1. Prelude,Solo Piano,60,B major,B,11
+2239,Bach,"WTK I, No. 17: Prelude and Fugue in A-flat major",2. Fugue,Solo Piano,120,A-flat major,A-flat,8
+2240,Bach,"WTK I, No. 17: Prelude and Fugue in A-flat major",1. Prelude,Solo Piano,92,A-flat major,A-flat,8
+2241,Bach,Violin Sonata No 1 in G minor,1. Adagio,Solo Violin,242,G minor,G,7
+2242,Bach,Violin Sonata No 1 in G minor,2. Fuga,Solo Violin,312,G minor,G,7
+2243,Bach,Violin Sonata No 1 in G minor,3. Siciliana,Solo Violin,193,G minor,G,7
+2244,Bach,Violin Sonata No 1 in G minor,4. Presto,Solo Violin,214,G minor,G,7
+2247,Bach,"WTK I, No. 9: Prelude and Fugue in E major",2. Fugue,Solo Piano,81,E major,E,4
+2248,Bach,"WTK I, No. 9: Prelude and Fugue in E major",1. Prelude,Solo Piano,104,E major,E,4
+2282,Bach,Violin Sonata in B minor,1. Adagio,Violin and Harpsichord,313,B minor,B,11
+2283,Bach,Violin Sonata in B minor,2. Allegro,Violin and Harpsichord,192,B minor,B,11
+2284,Bach,Violin Sonata in B minor,3. Andante,Violin and Harpsichord,227,B minor,B,11
+2285,Bach,Violin Sonata in B minor,4. Allegro,Violin and Harpsichord,225,B minor,B,11
+2288,Bach,Violin Partita No 1 in B minor,2. Corrente,Solo Violin,191,B minor,B,11
+2289,Bach,Violin Partita No 1 in B minor,3. Sarabande,Solo Violin,203,B minor,B,11
+2292,Bach,"WTK I, No. 19: Prelude and Fugue in A major",1. Prelude,Solo Piano,91,A major,A,9
+2300,Bach,"WTK I, No. 8: Prelude and Fugue in E-flat minor",1. Prelude,Solo Piano,238,E-flat minor,E-flat,3
+2302,Bach,"WTK I, No. 5: Prelude and Fugue in D major",2. Fugue,Solo Piano,108,D major,D,2
+2303,Bach,"WTK I, No. 5: Prelude and Fugue in D major",1. Prelude,Solo Piano,92,D major,D,2
+2304,Bach,"WTK I, No. 14: Prelude and Fugue in F-sharp minor",2. Fugue,Solo Piano,196,F-sharp minor,F-sharp,6
+2305,Bach,"WTK I, No. 14: Prelude and Fugue in F-sharp minor",1. Prelude,Solo Piano,65,F-sharp minor,F-sharp,6
+2307,Bach,"WTK I, No. 18: Prelude and Fugue in G-sharp minor",2. Fugue,Solo Piano,137,G-sharp minor,G-sharp,8
+2308,Bach,"WTK I, No. 18: Prelude and Fugue in G-sharp minor",1. Prelude,Solo Piano,121,G-sharp minor,G-sharp,8
+2310,Bach,"WTK I, No. 15: Prelude and Fugue in G major",1. Prelude,Solo Piano,55,G major,G,7
+2313,Beethoven,String Quartet No 15 in A minor,1. Allegro,String Quartet,593,A minor,A,9
+2314,Beethoven,String Quartet No 15 in A minor,2. Allegro ma non tanto,String Quartet,568,A minor,A,9
+2315,Beethoven,String Quartet No 15 in A minor,3. Molto Adagio; Andante,String Quartet,1069,A minor,A,9
+2318,Beethoven,Trio in E-flat major,1. Allegro moderato,Clarinet-Cello-Piano Trio,641,E-flat major,E-flat,3
+2319,Beethoven,Trio in E-flat major,2. Scherzo: Allegro ma non troppo,Clarinet-Cello-Piano Trio,620,E-flat major,E-flat,3
+2320,Beethoven,Trio in E-flat major,3. Rondo: Allegro,Clarinet-Cello-Piano Trio,222,E-flat major,E-flat,3
+2322,Beethoven,Piano Sonata No 23 in F minor,1. Allegro assai,Solo Piano,645,F minor,F,5
+2325,Beethoven,Piano Sonata No 23 in F minor,1. Allegro assai,Solo Piano,551,F minor,F,5
+2330,Beethoven,Violin Sonata No 1 in D major,1. Allegro con brio,Accompanied Violin,532,D major,D,2
+2334,Beethoven,Violin Sonata No 8 in G major,1. Allegro assai,Accompanied Violin,409,G major,G,7
+2335,Beethoven,Violin Sonata No 8 in G major,"2. Tempo di minuetto, ma molto moderato e grazioso",Accompanied Violin,422,G major,G,7
+2336,Beethoven,Violin Sonata No 8 in G major,3. Allegro vivace,Accompanied Violin,197,G major,G,7
+2341,Beethoven,Violin Sonata No 8 in G major,"2. Tempo di minuetto, ma molto moderato e grazioso",Accompanied Violin,460,G major,G,7
+2342,Beethoven,Violin Sonata No 8 in G major,3. Allegro vivace,Accompanied Violin,192,G major,G,7
+2343,Beethoven,Piano Sonata No 14 in C-sharp minor,1. Adagio sostenuto,Solo Piano,332,C-sharp minor,C-sharp,1
+2345,Beethoven,Piano Sonata No 14 in C-sharp minor,3. Presto agitato,Solo Piano,443,C-sharp minor,C-sharp,1
+2346,Beethoven,Piano Sonata No 14 in C-sharp minor,1. Adagio sostenuto,Solo Piano,335,C-sharp minor,C-sharp,1
+2348,Beethoven,Piano Sonata No 14 in C-sharp minor,3. Presto agitato,Solo Piano,493,C-sharp minor,C-sharp,1
+2350,Beethoven,Piano Sonata No 14 in C-sharp minor,1. Adagio sostenuto,Solo Piano,276,C-sharp minor,C-sharp,1
+2357,Beethoven,Piano Sonata No 15 in D major,2. Andante,Solo Piano,357,D major,D,2
+2358,Beethoven,Piano Sonata No 15 in D major,3. Scherzo: Allegro vivace,Solo Piano,137,D major,D,2
+2359,Beethoven,Piano Sonata No 15 in D major,4. Rondo: Allegro ma non troppo,Solo Piano,304,D major,D,2
+2364,Beethoven,Piano Sonata No 15 in D major,4. Rondo: Allegro ma non troppo,Solo Piano,296,D major,D,2
+2365,Beethoven,String Quartet No 12 in E-flat major,1. Maestoso - Allegro,String Quartet,402,E-flat major,E-flat,3
+2366,Beethoven,String Quartet No 12 in E-flat major,"2. Adagio, ma non troppo e molto cantabile",String Quartet,941,E-flat major,E-flat,3
+2368,Beethoven,String Quartet No 12 in E-flat major,4. Allegro,String Quartet,434,E-flat major,E-flat,3
+2371,Beethoven,Piano Sonata No 9 in E major,2. Allegretto,Solo Piano,205,E major,E,4
+2372,Beethoven,Piano Sonata No 9 in E major,3. Rondo - Allegro comodo,Solo Piano,228,E major,E,4
+2373,Beethoven,Piano Sonata No 19 in G minor,1. Andante,Solo Piano,318,G minor,G,7
+2374,Beethoven,Piano Sonata No 19 in G minor,2. Rondo: Allegro,Solo Piano,216,G minor,G,7
+2376,Beethoven,String Quartet No 8 in E minor,1. Allegro,String Quartet,581,E minor,E,4
+2377,Beethoven,String Quartet No 8 in E minor,2. Molto adagio,String Quartet,767,E minor,E,4
+2379,Beethoven,String Quartet No 8 in E minor,"4. Finale, Presto, alla breve",String Quartet,334,E minor,E,4
+2381,Beethoven,String Quartet No 13 in B-flat major,"1. Adagio, ma non troppo - Allegro",String Quartet,560,B-flat major,B-flat,10
+2382,Beethoven,String Quartet No 13 in B-flat major,2. Presto,String Quartet,117,B-flat major,B-flat,10
+2383,Beethoven,String Quartet No 13 in B-flat major,"3. Andante con moto, ma non troppo. Poco scherzoso",String Quartet,383,B-flat major,B-flat,10
+2384,Beethoven,String Quartet No 13 in B-flat major,4. Alla danza tedesca. Allegro assai,String Quartet,212,B-flat major,B-flat,10
+2388,Beethoven,Piano Sonata No 17 in D minor,1. Largo - Allegro,Solo Piano,473,D minor,D,2
+2389,Beethoven,Piano Sonata No 17 in D minor,2. Adagio,Solo Piano,449,D minor,D,2
+2390,Beethoven,Piano Sonata No 17 in D minor,3. Allegretto,Solo Piano,392,D minor,D,2
+2391,Beethoven,Piano Sonata No 17 in D minor,1. Largo - Allegro,Solo Piano,473,D minor,D,2
+2392,Beethoven,Piano Sonata No 17 in D minor,2. Adagio,Solo Piano,437,D minor,D,2
+2393,Beethoven,Piano Sonata No 17 in D minor,3. Allegretto,Solo Piano,383,D minor,D,2
+2397,Beethoven,Violin Sonata No 9 in A major,1. Adagio sostenuto - Presto,Accompanied Violin,623,A major,A,9
+2398,Beethoven,Violin Sonata No 9 in A major,2. Andante con variazioni,Accompanied Violin,910,A major,A,9
+2403,Beethoven,String Quartet No 1 in F Major,4. Allegro,String Quartet,358,F major,F,5
+2404,Beethoven,Piano Sonata No 20 in A-flat major,1. Moderato cantabile molto espressivo,Solo Piano,399,A-flat major,A-flat,8
+2405,Beethoven,Piano Sonata No 20 in A-flat major,2. Allegro molto,Solo Piano,137,A-flat major,A-flat,8
+2406,Beethoven,Piano Sonata No 20 in A-flat major,3. Adagio ma non troppo,Solo Piano,612,A-flat major,A-flat,8
+2410,Beethoven,Piano Sonata No 13 in E-flat major,1. Andante - Allegro - Andante,Solo Piano,313,E-flat major,E-flat,3
+2411,Beethoven,Piano Sonata No 13 in E-flat major,2. Allegro molto e vivace,Solo Piano,129,E-flat major,E-flat,3
+2415,Beethoven,Sextet in E-flat major for Winds,2. Adagio,Pairs Clarinet-Horn-Bassoon,227,E-flat major,E-flat,3
+2416,Beethoven,Sextet in E-flat major for Winds,3. Menuetto. Quasi Allegretto - Trio,Pairs Clarinet-Horn-Bassoon,139,E-flat major,E-flat,3
+2417,Beethoven,Sextet in E-flat major for Winds,4. Rondo. Allegro,Pairs Clarinet-Horn-Bassoon,227,E-flat major,E-flat,3
+2420,Beethoven,Violin Sonata No 2 in A major,3. Allegro piacevole,Accompanied Violin,236,A major,A,9
+2422,Beethoven,Piano Sonata No 1 in F minor,1. Allegro,Solo Piano,241,F minor,F,5
+2423,Beethoven,Piano Sonata No 1 in F minor,2. Adagio,Solo Piano,297,F minor,F,5
+2424,Beethoven,Piano Sonata No 1 in F minor,3. Menuetto,Solo Piano,202,F minor,F,5
+2431,Beethoven,String Quartet No 16 in F major,1. Allegretto,String Quartet,320,F major,F,5
+2432,Beethoven,String Quartet No 16 in F major,2. Vivace,String Quartet,193,F major,F,5
+2433,Beethoven,String Quartet No 16 in F major,"3. Lento assai, cantante e tranquillo",String Quartet,461,F major,F,5
+2436,Beethoven,Piano Sonata No 21 in C major,1. Allegro con brio,Solo Piano,684,C major,C,0
+2441,Beethoven,Piano Sonata No 29 in B-flat major,1. Allegro,Solo Piano,794,B-flat major,B-flat,10
+2442,Beethoven,Piano Sonata No 29 in B-flat major,2. Scherzo: Assai vivace,Solo Piano,175,B-flat major,B-flat,10
+2443,Beethoven,Piano Sonata No 29 in B-flat major,3. Adagio sostenuto,Solo Piano,1035,B-flat major,B-flat,10
+2444,Beethoven,Piano Sonata No 29 in B-flat major,4. Introduzione: Largo...Allegro - Fuga: Allegro risoluto,Solo Piano,770,B-flat major,B-flat,10
+2451,Beethoven,String Quartet No 6 in B-flat major,2. Adagio ma non troppo,String Quartet,421,B-flat major,B-flat,10
+2462,Beethoven,Violin Sonata No 4 in A minor,"2. Andante scherzoso, piu allegretto",Accompanied Violin,489,A minor,A,9
+2463,Beethoven,Violin Sonata No 4 in A minor,3. Allegro molto,Accompanied Violin,309,A minor,A,9
+2466,Beethoven,Violin Sonata No 4 in A minor,3. Allegro molto,Accompanied Violin,305,A minor,A,9
+2471,Beethoven,Piano Sonata No 3 in C major,2. Adagio,Solo Piano,453,C major,C,0
+2472,Beethoven,Piano Sonata No 3 in C major,3. Scherzo: Allegro,Solo Piano,215,C major,C,0
+2473,Beethoven,Piano Sonata No 3 in C major,4. Allegro assai,Solo Piano,335,C major,C,0
+2476,Beethoven,Piano Sonata No 3 in C major,2. Adagio,Solo Piano,474,C major,C,0
+2477,Beethoven,Piano Sonata No 3 in C major,3. Scherzo: Allegro,Solo Piano,220,C major,C,0
+2478,Beethoven,Piano Sonata No 3 in C major,4. Allegro assai,Solo Piano,319,C major,C,0
+2480,Beethoven,String Quartet No 5 in A major,1. Allegro,String Quartet,395,A major,A,9
+2481,Beethoven,String Quartet No 5 in A major,2. Menuetto,String Quartet,354,A major,A,9
+2482,Beethoven,String Quartet No 5 in A major,3. Andante cantabile (Theme with variations,String Quartet,568,A major,A,9
+2483,Beethoven,String Quartet No 5 in A major,4. Allegro,String Quartet,367,A major,A,9
+2486,Beethoven,Piano Sonata No 4 in E-flat major,"2. Largo, con gran espressione",Solo Piano,448,E-flat major,E-flat,3
+2487,Beethoven,Piano Sonata No 4 in E-flat major,3. Allegro,Solo Piano,339,E-flat major,E-flat,3
+2488,Beethoven,Piano Sonata No 4 in E-flat major,4. Rondo: Poco allegretto e grazioso,Solo Piano,441,E-flat major,E-flat,3
+2490,Beethoven,Piano Sonata No 4 in E-flat major,"2. Largo, con gran espressione",Solo Piano,519,E-flat major,E-flat,3
+2491,Beethoven,Piano Sonata No 4 in E-flat major,3. Allegro,Solo Piano,331,E-flat major,E-flat,3
+2492,Beethoven,Piano Sonata No 4 in E-flat major,4. Rondo: Poco allegretto e grazioso,Solo Piano,480,E-flat major,E-flat,3
+2494,Beethoven,String Quartet No 11 in F minor,1. Allegro con brio,String Quartet,297,F minor,F,5
+2497,Beethoven,String Quartet No 11 in F minor,4. Larghetto espressivo; Allegretto agitato; Allegro,String Quartet,294,F minor,F,5
+2501,Beethoven,Violin Sonata No 3 in E-flat major,2. Adagio con molta espressione,Accompanied Violin,367,E-flat major,E-flat,3
+2502,Beethoven,Violin Sonata No 3 in E-flat major,3. Rondo: Allegro molto,Accompanied Violin,267,E-flat major,E-flat,3
+2504,Beethoven,Octet in E-flat major for Winds,1. Allegro,Wind Octet,460,E-flat major,E-flat,3
+2505,Beethoven,Octet in E-flat major for Winds,2. Andante,Wind Octet,489,E-flat major,E-flat,3
+2506,Beethoven,Octet in E-flat major for Winds,3. Menuetto,Wind Octet,187,E-flat major,E-flat,3
+2507,Beethoven,Octet in E-flat major for Winds,4. Presto,Wind Octet,217,E-flat major,E-flat,3
+2509,Beethoven,Piano Sonata No 2 in A major,1. Allegro vivace,Solo Piano,484,A major,A,9
+2510,Beethoven,Piano Sonata No 2 in A major,2. Largo appassionato,Solo Piano,452,A major,A,9
+2512,Beethoven,Piano Sonata No 2 in A major,4. Rondo: Grazioso,Solo Piano,423,A major,A,9
+2514,Beethoven,Piano Sonata No 2 in A major,2. Largo appassionato,Solo Piano,405,A major,A,9
+2516,Beethoven,Piano Sonata No 2 in A major,4. Rondo: Grazioso,Solo Piano,387,A major,A,9
+2521,Beethoven,Cello Sonata No. 3 in A major,1. Allegro ma non tanto,Accompanied Cello,751,A major,A,9
+2522,Beethoven,Cello Sonata No. 3 in A major,2. Scherzo. Allegro molto,Accompanied Cello,363,A major,A,9
+2523,Beethoven,Cello Sonata No. 3 in A major,3. Adagio cantabile - Allegro vivace,Accompanied Cello,558,A major,A,9
+2527,Beethoven,Piano Sonata No 5 in C minor,1. Allegro molto e con brio,Solo Piano,386,C minor,C,0
+2528,Beethoven,Piano Sonata No 5 in C minor,2. Adagio molto,Solo Piano,463,C minor,C,0
+2529,Beethoven,Piano Sonata No 5 in C minor,3. Finale: Prestissimo,Solo Piano,275,C minor,C,0
+2530,Beethoven,Piano Sonata No 20 in C minor,1. Maestoso - Allegro con brio ed appassionato,Solo Piano,562,C minor,C,0
+2531,Beethoven,Piano Sonata No 20 in C minor,2. Arietta: Adagio,Solo Piano,992,C minor,C,0
+2532,Beethoven,Piano Sonata No 20 in C minor,1. Maestoso - Allegro con brio ed appassionato,Solo Piano,548,C minor,C,0
+2533,Beethoven,Piano Sonata No 20 in C minor,2. Arietta: Adagio,Solo Piano,1067,C minor,C,0
+2537,Beethoven,Piano Sonata No 20 in G major,1. Allegro ma non troppo,Solo Piano,286,G major,G,7
+2538,Beethoven,Piano Sonata No 20 in G major,2. Tempo di Menuetto,Solo Piano,212,G major,G,7
+2540,Beethoven,Piano Sonata No 28 in A major,1. Etwas lebhaft und mit der innigsten Empfindung,Solo Piano,263,A major,A,9
+2542,Beethoven,Piano Sonata No 28 in A major,3. Langsam und sehnsuchtsvoll,Solo Piano,650,A major,A,9
+2550,Beethoven,Piano Sonata No 24 in F-sharp major,2. Allegro vivace,Solo Piano,180,F-sharp major,F-sharp,6
+2555,Beethoven,Piano Sonata No 30 in E major,1. Vivace ma non troppo / Adagio espresivo,Solo Piano,223,E major,E,4
+2556,Beethoven,Piano Sonata No 30 in E major,2. Prestissimo,Solo Piano,151,E major,E,4
+2557,Beethoven,Piano Sonata No 30 in E major,"3. Gesangvoll, mit innigster Empfindung",Solo Piano,762,E major,E,4
+2560,Beethoven,String Quartet No 2 in G major,2. Adagio cantabile - Allegro - Tempo I,String Quartet,379,G major,G,7
+2562,Beethoven,String Quartet No 2 in G major,"4. Allegro molto, quasi presto",String Quartet,330,G major,G,7
+2564,Beethoven,Piano Sonata No 11 in B-flat major,2. Adagio con molto espressione,Solo Piano,553,B-flat major,B-flat,10
+2566,Beethoven,Piano Sonata No 11 in B-flat major,4. Rondo: Allegretto,Solo Piano,405,B-flat major,B-flat,10
+2567,Beethoven,Piano Sonata No 27 in E minor,1. Mit Lebhaftigkeit und durchaus mit Empfindung und Ausdruck,Solo Piano,387,E minor,E,4
+2568,Beethoven,Piano Sonata No 27 in E minor,2. Nicht zu geschwind und sehr singbar vorgetragen,Solo Piano,478,E minor,E,4
+2570,Beethoven,Violin Sonata No 7 in C minor,1. Allegro con brio,Accompanied Violin,507,C minor,C,0
+2571,Beethoven,Violin Sonata No 7 in C minor,2. Adagio cantibile,Accompanied Violin,540,C minor,C,0
+2572,Beethoven,Violin Sonata No 7 in C minor,3. Scherzo: Allegro,Accompanied Violin,201,C minor,C,0
+2573,Beethoven,Violin Sonata No 7 in C minor,4. Finale: Allegro; Presto,Accompanied Violin,340,C minor,C,0
+2575,Beethoven,Piano Sonata No 8 in C minor,2. Adagio cantabile,Solo Piano,303,C minor,C,0
+2576,Beethoven,Piano Sonata No 8 in C minor,3. Rondo: Allegro,Solo Piano,279,C minor,C,0
+2581,Beethoven,Piano Sonata No 22 in F major,1. tempo d un menuetto,Solo Piano,345,F major,F,5
+2582,Beethoven,Piano Sonata No 22 in F major,2. Allegretto - Piu allegro,Solo Piano,398,F major,F,5
+2586,Beethoven,Cello Sonata No. 4 in C major,2. Adagio - Tempo d andante - Allegro vivace,Accompanied Cello,429,C major,C,0
+2588,Beethoven,Piano Sonata No 12 in A-flat major,1. Andante con variazioni,Solo Piano,522,A-flat major,A-flat,8
+2590,Beethoven,Piano Sonata No 12 in A-flat major,3. Maestoso andante,Solo Piano,390,A-flat major,A-flat,8
+2591,Beethoven,Piano Sonata No 12 in A-flat major,4. Allegro,Solo Piano,179,A-flat major,A-flat,8
+2593,Beethoven,Piano Sonata No 18 in E-flat major,1. Allegro,Solo Piano,512,E-flat major,E-flat,3
+2594,Beethoven,Piano Sonata No 18 in E-flat major,2. Scherzo: Allegretto vivace,Solo Piano,319,E-flat major,E-flat,3
+2595,Beethoven,Piano Sonata No 18 in E-flat major,3. Menuetto. Moderato e grazioso,Solo Piano,307,E-flat major,E-flat,3
+2596,Beethoven,Piano Sonata No 18 in E-flat major,4. Presto,Solo Piano,325,E-flat major,E-flat,3
+2603,Beethoven,Piano Sonata No 26 in E-flat major,1. Das Lebewohl,Solo Piano,418,E-flat major,E-flat,3
+2607,Beethoven,Piano Sonata No 16 in G major,2. Adagio grazioso,Solo Piano,673,G major,G,7
+2608,Beethoven,Piano Sonata No 16 in G major,"3. Rondo, allegretto - presto",Solo Piano,390,G major,G,7
+2611,Beethoven,Piano Sonata No 7 in D major,2. Largo e mesto,Solo Piano,563,D major,D,2
+2614,Beethoven,Piano Sonata No 7 in D major,2. Largo e mesto,Solo Piano,635,D major,D,2
+2618,Beethoven,Piano Sonata No 6 in F major,1. Allegro,Solo Piano,364,F major,F,5
+2619,Beethoven,Piano Sonata No 6 in F major,2. Allegretto,Solo Piano,238,F major,F,5
+2620,Beethoven,Piano Sonata No 6 in F major,3. Presto,Solo Piano,159,F major,F,5
+2621,Beethoven,String Quartet No 7 in F major,1. Allegro,String Quartet,648,F major,F,5
+2622,Beethoven,String Quartet No 7 in F major,2. Allegretto vivace e sempre scherzando,String Quartet,507,F major,F,5
+2626,Beethoven,Violin Sonata No 10 in G major,1. Allegro moderato,Accompanied Violin,593,G major,G,7
+2627,Beethoven,Violin Sonata No 10 in G major,2. Adagio espressivo,Accompanied Violin,323,G major,G,7
+2628,Beethoven,Violin Sonata No 10 in G major,3. Scherzo: Allegro - Trio,Accompanied Violin,124,G major,G,7
+2629,Beethoven,Violin Sonata No 10 in G major,4. Poco allegretto,Accompanied Violin,517,G major,G,7
+2632,Beethoven,Piano Sonata No 10 in G major,2. Andante,Solo Piano,341,G major,G,7
+2633,Beethoven,Piano Sonata No 10 in G major,3. Scherzo: Allegro assai,Solo Piano,227,G major,G,7
+2659,Bach,Violin Partita No 1 in B minor,6. Double,Solo Violin,108,B minor,B,11
+2677,Beethoven,Piano Sonata No 9 in E major,1. Allegro,Solo Piano,445,E major,E,4
+2678,Beethoven,Piano Sonata No 10 in G major,1. Allegro,Solo Piano,472,G major,G,7
